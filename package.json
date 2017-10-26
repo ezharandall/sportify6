@@ -3,6 +3,8 @@
   "version": "1.1.1",
   "description": "A Sports Management Tool",
   "main": "index.js",
+  "engines": {
+    "node": "6.10.2"},
   "scripts": {
     "clean": "rimraf build",
     "start": "webpack-dev-server --progress --colors",
@@ -65,13 +67,7 @@
     "webpack": "^2.5.1",
     "webpack-dev-server": "^2.4.5"
   },
-  "node info": {
-  "name": "sportify6",
-  "description": "Sports Management Tool",
-  "version": "1.0.0",
-  "engines": {
-    "node": "6.10.2"
-  }
+  
 }
-}
+
 
