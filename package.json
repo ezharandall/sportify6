@@ -1,5 +1,5 @@
 {
-  "name": "Sportify5",
+  "name": "sportify6",
   "version": "1.1.1",
   "description": "A Sports Management Tool",
   "main": "index.js",
@@ -13,12 +13,12 @@
   "proxy": "http://localhost:3005",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ezharandall/Sportify5"
+    "url": "https://github.com/ezharandall/sportify6"
   },
   "author": "Ezha Randall, Jonathan Ansley, Morgan Chastain",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ezharandall/Sportify5"
+    "url": "https://github.com/ezharandall/sportify6"
   },
   "homepage": "https://github.com/sencha/extjs-reactor#readme",
   "dependencies": {
@@ -66,7 +66,7 @@
     "webpack-dev-server": "^2.4.5"
   },
   "node info": {
-  "name": "Sportify5",
+  "name": "sportify6",
   "description": "Sports Management Tool",
   "version": "1.0.0",
   "engines": {
